@@ -1,5 +1,4 @@
 public class Car {
-    int modelYear;
-    
-
+    int year, price;
+    String model;
 }
